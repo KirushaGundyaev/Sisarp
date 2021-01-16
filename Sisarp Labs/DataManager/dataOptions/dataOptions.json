@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionString": "Data Source=DESKTOP-36SSQ5B;Initial Catalog=userdb;Integrated Security=True",
+  "LoggerConnectionString": "Data Source=DESKTOP-36SSQ5B;Initial Catalog=ApplicationInsights;Integrated Security=True",
+  "SourcePath": "D:\\programming\\3sem\\CSharp\\Lab3\\bin\\Debug\\SourceDirectory",
+  "OutputFolder": "D:\\programming\\3sem\\CSharp\\Lab4\\bin\\Debug\\output"
+}
